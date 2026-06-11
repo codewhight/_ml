@@ -84,7 +84,7 @@
   python main.py
   ```
 - **專案連結**：[Xiangqi AI Project](https://github.com/codewhight/Xiangqi_AI_Project)
-- **AI 使用情形**：在開發過程中適度利用 AI（如 ChatGPT）取得概念說明與除錯建議，相關對話已保存在各子目錄的 `AI_chat.md` 中。最終程式碼皆由本人手寫，未使用 AI 直接產生。
+- **AI 使用情形**：在開發過程中適度利用 AI 取得概念說明與除錯建議，相關對話已保存在各子目錄的 `AI_chat.md` 中。最終程式碼皆由本人手寫，未使用 AI 直接產生。
 - **教師提供的檔案**：`h3/nn0.py` 與 `h5/agent0.py` 為課程提供的基礎模組，僅作為實驗基礎使用，未自行撰寫。
 
 ---
